@@ -6,7 +6,7 @@ Freshman Computer Engineering student, batch 26'
 - C++
 
 ## Projects
--Basic Information System INPUT ONLY
+-You can find them by visiting my profile
 
 ## Goals
 - Build more projects
