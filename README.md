@@ -3,7 +3,6 @@
 Freshman Computer Engineering student, batch 26'
 
 ## Currently Learning
-- Programming Logic
 - C++
 
 ## Projects
