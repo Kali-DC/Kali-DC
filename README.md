@@ -11,19 +11,12 @@ Freshman Computer Engineering student with a growing interest in software develo
 
 ## Featured Projects
 
-You can find my projects and programming activities in my repositories, including:
-
-- Student Information System
-- Interactive GPA Calculator
-- Sales Receipt System
-- Score System
-- Other academic programming projects
+You can find my projects and programming activities in my repositories.
 
 ## About My Repositories
 
 I use GitHub to document my growth as a programmer throughout college.
 
-Rather than uploading every activity and exercise, I aim to highlight projects that introduce new concepts, demonstrate improved coding practices, or represent significant learning milestones. This allows my repositories to showcase continuous improvement while remaining organized and easy to navigate.
 
 ## Goals
 
